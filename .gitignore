@@ -1,0 +1,5 @@
+#exclude following files
+/out
+/out/*
+
+.idea/workspace.xml
